@@ -1,0 +1,46 @@
+body {
+    background-color: rgba(248, 244, 243, 0.5);
+}
+
+header{
+    font-size: 50px;
+    background-size: cover;
+    color:rgb(208, 43, 0 );
+    width: 100%;
+    ;
+
+
+}
+
+}
+#TWO {
+    color: rgb(rgb(208, 43, 0 ));
+    background-color: seashell;
+}
+li {
+    list-style:circle;
+    color:black;
+    text-align: left;
+}
+
+footer{
+    font-size: smaller;
+    border: 6px solid seashell;
+    text-align: center;
+
+}
+
+img {
+    width: 10%;
+    height: 10%;
+    display: flex;
+    margin:0 auto
+    ;
+}
+
+div{
+    border: 1px solid black;
+    display: flex;
+    justify-content:space-between;
+    text-align: center;
+}
